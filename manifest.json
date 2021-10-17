@@ -1,0 +1,1520 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Users/e300/Downloads/tesn/packages/docfx.console.2.58.4/tools/docfx_project",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.App.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.App.html",
+          "hash": "9axg0+j4mwHTcIZwnAbyRP+elZB27/4/6IyAFGKjPfY="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.Converters.CountConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.Converters.CountConverter.html",
+          "hash": "ezKsIlynQx40qUQuueRRp1p1Q5F24xZPtJHBFF3tCKE="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.Converters.GridLengthConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.Converters.GridLengthConverter.html",
+          "hash": "9wUtfeWKh2OcTrJCGuUgKvUP3aZGtthFStyD2QKg78g="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.Converters.InverseConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.Converters.InverseConverter.html",
+          "hash": "AhsWXdbawJVY5KZuCeHlV3CTfsRgHs7DAorWbwfmaQI="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.Converters.StringValueConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.Converters.StringValueConverter.html",
+          "hash": "0qwYHA9siifS6wZzDojzVJxJsMr9/jHlcPtH8Q9x7Q0="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.Converters.VisibilityConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.Converters.VisibilityConverter.html",
+          "hash": "bGDqUyscnZsx/TcIqrEEAKTC2j1f3IaCSyyOtTHsZUU="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.Converters.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.Converters.html",
+          "hash": "djAckB0vZHT1Z5VjMmafjHWVBhbcNv2N7uwoloVG5pU="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.Libraries.Kernal32.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.Libraries.Kernal32.html",
+          "hash": "cRYpTRgufg9trHyERZ9ilElbWqdEu/k32AUZO1aDLAQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.Libraries.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.Libraries.html",
+          "hash": "+DSVQlWJ2hVndF2fZuzd+MikVtJ5YL2O+7HoFa5ffsY="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.MainWindow.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.MainWindow.html",
+          "hash": "BU+pcWGP1FlUczi/ZgZbJAvoqWf0lKIBtC+rKxuwk8Y="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.Models.ClassData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.Models.ClassData.html",
+          "hash": "klmRx5kOcl3EcCVkT9Bd0S0ncX4Owfw20gBoxbbvOOg="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.Models.ClassType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.Models.ClassType.html",
+          "hash": "yYqtLpQZeQHZKhwxFlCQ7d7Y3OgvXB5u5pb9Zuxmjv8="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.Models.DatePoint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.Models.DatePoint.html",
+          "hash": "62hU4gpGa+94hk4NXqz1sIqmYE6PfH7cm1o7SxmoBCg="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.Models.LogType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.Models.LogType.html",
+          "hash": "6HJXBnJmTrTkT5TfAK77rL0QtEh6kYEG2vU1j0nPVSs="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.Models.MongoLogDBmodel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.Models.MongoLogDBmodel.html",
+          "hash": "lzqI8BuEfWV7gvJsGEymO4uOVkx8HdP1W0Sg0uSyOPM="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.Models.MongoPickDBmodel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.Models.MongoPickDBmodel.html",
+          "hash": "g1o1m/b4bAw5/vaGr8Lrfvk7IEaOc7VeadI5+yjklmo="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.Models.PageIndex.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.Models.PageIndex.html",
+          "hash": "ZEbuQf+TN8SPJ++gqIpU7yu3PYQVNgckg2UHrnpDvj4="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.Models.ResourceObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.Models.ResourceObject.html",
+          "hash": "G8p2l6/NpInHqES04UcKS5fooUHDGuTVJ+MvPMzBuqo="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.Models.Role.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.Models.Role.html",
+          "hash": "/DRH0HhXsYgET2PY5FEe1uMoi24lK/Gx3qmqpwV0GVM="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.Models.html",
+          "hash": "Fwr5s0klpp6Dc2PotCrl4qneQzvppjeohdz06TXR5n0="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.Selectors.TabTemplateSelector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.Selectors.TabTemplateSelector.html",
+          "hash": "Y7BNMMEpMlryGw1BcpcrcVSOtAGSxU/gr6MyAI1pZ6U="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.Selectors.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.Selectors.html",
+          "hash": "AFepqQBuqGtcqgA8+9VqrzUqm99MkcsOrz1GQdIXbGs="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.Services.RobotLogMongoServices.LEkind.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.Services.RobotLogMongoServices.LEkind.html",
+          "hash": "B8DRn0d7a2UBmlvmhFvyl45NPUV90ME/z+/rRm7iTIM="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.Services.RobotLogMongoServices.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.Services.RobotLogMongoServices.html",
+          "hash": "dOIKIksZrYr4RNl5mGcJlfoQ5K0Po9Oaj7SHDR7zsYI="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.Services.RobotPickMongoServices.Bkind.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.Services.RobotPickMongoServices.Bkind.html",
+          "hash": "Uv62oRm+mqpK2rXQYkFHPdgClvHh45491MQAmL5P2jc="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.Services.RobotPickMongoServices.Btype.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.Services.RobotPickMongoServices.Btype.html",
+          "hash": "6bsl89ZftYXYgsQrasrO+veMgXKN7O0MAijemjNAZ1U="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.Services.RobotPickMongoServices.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.Services.RobotPickMongoServices.html",
+          "hash": "p67P0IXlBoVHX8yU389Bol2AUtDXZ0P8V7rbya4jB+I="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.Services.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.Services.html",
+          "hash": "kRLeSohTS7duPMPHha2s5JwHp5I7y6jgL3z88fR9pTE="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.TimeUnit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.TimeUnit.html",
+          "hash": "ynPLrbq8Ze7Gw0A9THYPk75h3sEoYx09Rruw98fPGgE="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.UserControls.AdvLabel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.UserControls.AdvLabel.html",
+          "hash": "3NODSWfUIm5yTbqKbrxj38rnqK8Z4j8IJPBxi/4himU="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.UserControls.ButtonHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.UserControls.ButtonHelper.html",
+          "hash": "uVkKdjX9NRI2CFMG/Sr+yTLnwyRpAD86QoB7GYdigYY="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.UserControls.ChartBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.UserControls.ChartBase.html",
+          "hash": "NqGXYMkdtuZRcsXwNDyfgSikqJ+UCaCWKZUdcBU4oQs="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.UserControls.ChartGrid.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.UserControls.ChartGrid.html",
+          "hash": "XUofonqAan/mGI2itKNXXwDKYFP+oQ78Ojtpv+XdhSM="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.UserControls.ChartHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.UserControls.ChartHelper.html",
+          "hash": "/FVcb4DQ3rz6f+pYiQuZHbt0Q5FDCSyLJpKC1nkncTA="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.UserControls.Histogram.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.UserControls.Histogram.html",
+          "hash": "mqj7H8UsxLYwHefb/boG5D3biOBlDlIg4C9QA9BpRy4="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.UserControls.HistogramItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.UserControls.HistogramItem.html",
+          "hash": "LVJ97GJj0qN9N3zALTb8MBwfs2BbUvLNuHTQ8SGLpnw="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.UserControls.IHistogramItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.UserControls.IHistogramItem.html",
+          "hash": "3LQ6scJZN8PigyRk7QgQ8FABgnULvIFR59oAJyeyAWQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.UserControls.ILabel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.UserControls.ILabel.html",
+          "hash": "gSVnaPqGQsRvYc8mmne4Q3YIoxUbMIki3qswfxFCaaQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.UserControls.NavigationButton.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.UserControls.NavigationButton.html",
+          "hash": "drxZXb+gWgFkZwTIVcn3s6G2NTamIcRkgE5+pUPiJ3c="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.UserControls.ParametersGroup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.UserControls.ParametersGroup.html",
+          "hash": "xRbclZN7ni+sjCqhUqMwsiSyVmsToDOwMQj15Mkzlnc="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.UserControls.ResourceHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.UserControls.ResourceHelper.html",
+          "hash": "Qh/IZlXNFO659L9DHtM4SUe5tox7HcIaP7sk0TM0DOs="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.UserControls.StatusLabel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.UserControls.StatusLabel.html",
+          "hash": "BbY94hEVMnGF5j1MLfWeAnQ05AM3a7ayg/FEUcHEU2M="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.UserControls.StatusMark.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.UserControls.StatusMark.html",
+          "hash": "YDhsq63qmDGI0T9tzAz2Orz7xGAtePajsU94CAYg7a8="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.UserControls.TaskCard.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.UserControls.TaskCard.html",
+          "hash": "cN8IrLxTEL2ie5nul/fSXQOLcDsUptvkB6uU4qSL3m8="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.UserControls.TextBoxHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.UserControls.TextBoxHelper.html",
+          "hash": "kYT2/6ohTCpu2hHl0JBabkZZxJMbiJsUtms6fC0Ccr4="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.UserControls.TimelineArea.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.UserControls.TimelineArea.html",
+          "hash": "ZUb5yNzHdgP9ssG1Z1gMnnygkD70ZDaxNU+TDoPSThg="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.UserControls.TimelineChart.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.UserControls.TimelineChart.html",
+          "hash": "5gGWx7A8xNFBaE9qPyzx5GVMVI4sAViC2XqbedgEN2w="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.UserControls.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.UserControls.html",
+          "hash": "efMB3Nur/FOJeuLy/QLpgAioBpxBhicfWA6vgUyqoJk="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.ViewModels.AdjustPageViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.ViewModels.AdjustPageViewModel.html",
+          "hash": "oi5GtM11EUzeMpGuokwcua6jEOkLemCI7qV87zkQAsA="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.ViewModels.BaseViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.ViewModels.BaseViewModel.html",
+          "hash": "we4ZfDNXHeEbtLdFihyGA91hWaAxEu6YqaFgrtJUZ+E="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.ViewModels.ComponentStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.ViewModels.ComponentStatus.html",
+          "hash": "IBPhP3h2ZbCESY2HNnmV6ABtkfPOpFCdnnp9OzXmeaQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.ViewModels.HistogramItemViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.ViewModels.HistogramItemViewModel.html",
+          "hash": "11cFBxfo6dBWlpjEwvwRZDgvzJL0hHnkAjiCCVThbVI="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.ViewModels.HomePageViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.ViewModels.HomePageViewModel.html",
+          "hash": "s6wQtw5Ux48vYvdCKhgHMg2OtxRoNFrJSON/rtN5e4g="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.ViewModels.LogPageViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.ViewModels.LogPageViewModel.html",
+          "hash": "Vs2d2i39U9wNzA5YcEjiE2cz/Kmk3HHxuTL7ISCWKPs="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.ViewModels.MainViewModel.ConfigClass.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.ViewModels.MainViewModel.ConfigClass.html",
+          "hash": "73UDDPqx+hajOWsjl8yeD+i3XtcnDOMeg+Hya3wNznY="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.ViewModels.MainViewModel.DelegateClick.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.ViewModels.MainViewModel.DelegateClick.html",
+          "hash": "+CPMtDcnHQP30/doLLivtu1msxkxv5do8OaUYF8ZAUk="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.ViewModels.MainViewModel.SinkConfigSetting.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.ViewModels.MainViewModel.SinkConfigSetting.html",
+          "hash": "1ZbGaQTCrri1q4zyMufMXngMD+HxaySTVp1EvlZCytk="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.ViewModels.MainViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.ViewModels.MainViewModel.html",
+          "hash": "9VLqZ9G3ks68r8fSVZMlLrchZt25BFkhJs5AAIi9kIs="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.ViewModels.ObservableQueue-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.ViewModels.ObservableQueue-1.html",
+          "hash": "xXYhX02Ci5h3eI5DdxyJYgKlFFVgTkAI17rv4qlJdHE="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.ViewModels.PageViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.ViewModels.PageViewModel.html",
+          "hash": "qzPFV8mwM52O8t+AHbyFgIwDUmZLo3cxkUpF5zO8oXE="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.ViewModels.RobotApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.ViewModels.RobotApi.html",
+          "hash": "CiGnsmU0wtaIJH8N5xVyWGCZlrZcdvn5H0iGQwB58A8="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.ViewModels.RobotParameter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.ViewModels.RobotParameter.html",
+          "hash": "UYYlr1Y9py4dte85lkie4DTJLm04x0FS5MJbTbd5uXQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.ViewModels.RobotViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.ViewModels.RobotViewModel.html",
+          "hash": "FI55VPZutwKDGT5UymdtAs8hG2UQ5jLNYpaYgcSZe5Q="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.ViewModels.SinkViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.ViewModels.SinkViewModel.html",
+          "hash": "zStwwgiY5qPQKMZVjgsWFVr//yJFdy4562wCGjqtEnw="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.ViewModels.StatusPageViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.ViewModels.StatusPageViewModel.html",
+          "hash": "fwi15geWjUQZ2y54ziuf4Mjt8quSBXojM2DpqdQJ50U="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.ViewModels.TaskPageViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.ViewModels.TaskPageViewModel.html",
+          "hash": "qV93iZmgx4wY2pQ6ofrbJH+pwxNcPJ2mCno/lrwxZMQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.ViewModels.TimelineChartViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.ViewModels.TimelineChartViewModel.html",
+          "hash": "Ld7mpuPvzxX0DhcRk0jHes23PQWXtumjFuhQEf1avrM="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.ViewModels.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.ViewModels.html",
+          "hash": "iUNGR5lU741F3BIqZjO7fwrP0x1ziX3V/hSYMClppEg="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.Views.AdjustPage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.Views.AdjustPage.html",
+          "hash": "7H9rAoywn630L/IzMCV5bL+p54o28Ia0Hu4TkrFm+Wo="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.Views.GeometriesDemo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.Views.GeometriesDemo.html",
+          "hash": "ZL+OZCIb95BZOzXcB7vtN0q3dwBfO5m+AOHYISDViSw="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.Views.HomePage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.Views.HomePage.html",
+          "hash": "u41v32qLvnArNTPxtzXoMEjp7bYqLvRPtwxVDy3DlPo="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.Views.IPopup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.Views.IPopup.html",
+          "hash": "4VxBbhbNL2eOGZH8kCcyO866skQRIDx/0rIwGO2kwW8="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.Views.LogPage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.Views.LogPage.html",
+          "hash": "DAc115zFOgk8+WxbeVWkYySmXcvjDajUS1XZKNi7wYQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.Views.LoginView.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.Views.LoginView.html",
+          "hash": "eOkdw5s+Wto8lU+6lXlGD8SglBubh/XOwWGx1jNEH64="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.Views.OverallView.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.Views.OverallView.html",
+          "hash": "FZQjQcIC5kSWrHG/+AtXlSvYwzrVlBrVsuVGpMacp8s="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.Views.RobotDetail.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.Views.RobotDetail.html",
+          "hash": "6p14hJ1Fd3jCleULtOsQLcZMq6flUGqCXrEwwd0Pe2Q="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.Views.RobotHistogram.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.Views.RobotHistogram.html",
+          "hash": "K9uZ7gClSxuL2KdtGrP5/GptyK7m+8cE/GerXJani6E="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.Views.RobotPicks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.Views.RobotPicks.html",
+          "hash": "NO3oOw3iy4ryS0zjSkt7BI0dve4gNV1HZskpWJWFk60="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.Views.StatusPage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.Views.StatusPage.html",
+          "hash": "RhFeAyYyBDDpMJ3nUa6qTlujz6k2sDCiiRZqpunv3BA="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.Views.TaskPage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.Views.TaskPage.html",
+          "hash": "/tZPN4ibWmqt2vYCCTROnAY0PsM8SBMOaZQvfDvKR9Y="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.Views.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.Views.html",
+          "hash": "QiV4/w/LeaqUUQKMfpsbAC3I+5Cp3TwSC+C8crqBei0="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Recycle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Recycle.html",
+          "hash": "DRYREkFM+lVGkQCovFp5DmtnpfafsMII/Av9+reFfB8="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "5qg2fNFDp8biJa1+ITPUMlEv5BiG/1R024yOqaf+74I="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "UlZg5I1kKPHdgCoen3mvT7fjNM8RPlkts0dqr2AQ0Ew="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "ar5cvfdF93s/HeP78OMDvp3caoS8yX6BMs4BV5fGQhM="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro2.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro2.html",
+          "hash": "V9P1L92G+NK7aJxCBi9U6oh+NcoxUWJs5cVzSkxSCts="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro2_1.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro2_1.html",
+          "hash": "gMYPhKsFMzNdqVV2jS+H7uUfDfW3KX9LpgduZBHWfnM="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro3.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro3.html",
+          "hash": "G0i2+NqPWoMkyPnn9I2dX2xPYx+K2ljv8HOr0/xjfHI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro3_1.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro3_1.html",
+          "hash": "U6hqb2a1oFTz4R/5B7jGhjxG/94Phz1j66r3qIB+w0Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro4.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro4.html",
+          "hash": "AHuC25QD3S5jJu2tO4gnnKNZRizFrmsTu6oxQWuYl7s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro4_1.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro4_1.html",
+          "hash": "RdQLcmWDfYHh3XTqI3RwZfHyndlND7MKYHEF2RZQ0is="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro_1.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro_1.html",
+          "hash": "EujAGjgrPFlrVWtsxKWGotkZ+xEl59COJWQE3KX3k3g="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "1+edF7yUJi40bL9zSII8u5CjtzzCjLygs8gbEx0chWs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/img.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/img.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/img1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/img1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/img2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/img2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/img3.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/img3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/img4.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/img4.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/img5.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/img5.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/img6.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/img6.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/img7.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/img7.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/img_1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/img_1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/img_10.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/img_10.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/img_11.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/img_11.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/img_12.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/img_12.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/img_13.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/img_13.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/img_14.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/img_14.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/img_15.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/img_15.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/img_16.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/img_16.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/img_17.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/img_17.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/img_18.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/img_18.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/img_19.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/img_19.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/img_2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/img_2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/img_20.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/img_20.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/img_21.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/img_21.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/img_3.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/img_3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/img_4.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/img_4.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/img_5.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/img_5.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/img_6.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/img_6.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/img_7.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/img_7.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/img_8.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/img_8.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/img_9.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/img_9.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "db3Gq9K2/BprLZuCZ7e5/MYQv+kIxqIA2ZPWz/0aXKQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "mrQBk+FUBv6YCFZDWZQEQCbm6D7X1Z7frHcSdzNMz5E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 10,
+          "skipped_file_count": 6
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 82,
+          "skipped_file_count": 82
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>WPF &#33287; MongoDB &#30446;&#37636;&#32080;&#27083;&#35498;&#26126; ! </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="WPF &#33287; MongoDB &#30446;&#37636;&#32080;&#27083;&#35498;&#26126; ! ">
+    <meta name="generator" content="docfx 2.58.4.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <meta property="docfx:navrel" content="../toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    
+    
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="svg" src="../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+<h1 id="wpf-與-mongodb-目錄結構說明-">WPF 與 MongoDB 目錄結構說明 !</h1>
+
+<p>*. WPF 首頁</p>
+<p><img src="../images/img_21.png" alt="img_21.png"></p>
+<p>*. Directory: 目錄結構如下</p>
+<p><img src="../images/img6.png" alt="img6.png"></p>
+<p>*. d/f  目錄/檔名 :: 只對WPF有使用到mongoDB的目錄做解釋</p>
+<hr>
+<p>d-----Models</p>
+<pre><code>--MongoDB Model對應MVC裡面的Ｍ，有兩部份，一是抓取紀錄(MongoPickDBmodel.cs)，二是錯誤紀錄(MongologDBmodel.cs)
+</code></pre>
+<p><img src="../images/img_3.png" alt="img_3.png"></p>
+<p>d-----Services</p>
+<pre><code>--MongoDB Service對應MVC裡面的C(controller)，有兩部份，一是抓取紀錄(MongoPickMongoServices.cs)，二是錯誤紀錄(MongoLogMongoServices.cs)
+</code></pre>
+<p><img src="../images/img_2.png" alt="img_2.png"></p>
+<p>d-----UserControls</p>
+<pre><code>--對應WPF UI的細部元件之使用者控制邏輯撰寫
+</code></pre>
+<p><img src="../images/img_18.png" alt="img_18.png"></p>
+<p>d-----ViewModels</p>
+<pre><code>--對應WPF UI的頁面之使用者控制邏輯撰寫
+</code></pre>
+<p><img src="../images/img_20.png" alt="img_20.png"></p>
+<p>d-----Views</p>
+<pre><code>--對應WPF UI的頁面之Layout之設計與對應binding ViewModel跟UserControl的Method邏輯撰寫
+</code></pre>
+<p><img src="../images/img_19.png" alt="img_19.png"></p>
+<p>d-----Selectors</p>
+<p>d-----Dependencies</p>
+<p>d-----Properities</p>
+<p>d-----Converters</p>
+<p>d-----Core</p>
+<p>d-----Images</p>
+<p>d-----Languages</p>
+<p>d-----Libraries</p>
+<p>d-----Resources</p>
+<p>d-----Styles</p>
+<p>-f----App.config</p>
+<p>-f----App.xaml</p>
+<p>-f----App.xaml.cs</p>
+<p>-f----MainWindows.xaml</p>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+                <h5>In This Article</h5>
+                <div></div>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </body>
+</html>
