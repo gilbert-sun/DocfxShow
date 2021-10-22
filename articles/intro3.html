@@ -44,6 +44,17 @@
                   <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
                 </div>
               </form>
+              <ul class="nav level1 navbar-nav">
+                <li>
+                  <a href="./intro.html" n=
+                          ame="./toc.html" title="WPF_article"
+                  >WPF_article</a>
+                </li>
+                <li>
+                  <a href="../api/index.html" name=
+                          ="../api/toc.html" title="API_doc">API_doc</a>
+                </li>
+              </ul>
             </div>
           </div>
         </nav>
@@ -61,7 +72,62 @@
         <div class="sidenav hide-when-search">
           <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
           <div class="sidetoggle collapse" id="sidetoggle">
-            <div id="sidetoc"></div>
+            <div id="sidetoc"><div>
+    <div class="sidefilter">
+      <form class="toc-filter">
+        <span class="glyphicon glyphicon-filter filter-icon"></span>
+        <span class="glyphicon glyphicon-remove clear-icon" id="toc_filter_clear" style="display: none;"></span>
+        <input type="text" id="toc_filter_input" placeholder="Enter here to filter..." onkeypress="if(event.keyCode==13) {return false;}">
+      </form>
+    </div>
+    <div class="sidetoc">
+      <div class="toc" id="toc">
+          
+          <ul class="nav level1">
+                <li class="active in">
+                    <span class="expand-stub"></span>
+                    <a href="./intro.html" name="" title="WPF/MongoDB目錄結構說明" class="active">WPF/Mongo<wbr>DB目錄結構說明</a>
+                    
+                    <ul class="nav level2">
+                          <li>
+                              <a href="./intro_1.html" name="" title="MongoDB 初始化與設定">Mongo<wbr>DB 初始化與設定</a>
+                          </li>
+                    </ul>
+                </li>
+                <li>
+                    <span class="expand-stub"></span>
+                    <a href="./intro2.html" name="" title="使用mongoDB API vs首頁">使用mongo<wbr>DB API vs首頁</a>
+                    
+                    <ul class="nav level2">
+                          <li>
+                              <a href="./intro2_1.html" name="" title="MongoDB API_1使用說明">Mongo<wbr>DB API_1使用說明</a>
+                          </li>
+                    </ul>
+                </li>
+                <li>
+                    <span class="expand-stub"></span>
+                    <a href="./intro3.html" name="" title="使用mongoDB API vs任務">使用mongo<wbr>DB API vs任務</a>
+                    
+                    <ul class="nav level2">
+                          <li>
+                              <a href="./intro3_1.html" name="" title="MongoDB API_2使用說明">Mongo<wbr>DB API_2使用說明</a>
+                          </li>
+                    </ul>
+                </li>
+                <li>
+                    <span class="expand-stub"></span>
+                    <a href="./intro4.html" name="" title="使用mongoDB API vs紀錄">使用mongo<wbr>DB API vs紀錄</a>
+                    
+                    <ul class="nav level2">
+                          <li>
+                              <a href="./intro4_1.html" name="" title="MongoDB API_3使用說明">Mongo<wbr>DB API_3使用說明</a>
+                          </li>
+                    </ul>
+                </li>
+          </ul>
+      </div>
+    </div>
+  </div></div>
           </div>
         </div>
         <div class="article row grid-right">
@@ -69,7 +135,7 @@
             <article class="content wrap" id="_content" data-uid="">
 <h1 id="任務">任務</h1>
 
-<p>MongoDB Table一(RobotPickMongoServices.cs) 對應WPF任務(Task) 4個Sink抓取每天總數量 ==&gt; <a href="https://gilbert-sun.github.io/articles/intro3_1.html">任務</a></p>
+<p>MongoDB Table一(RobotPickMongoServices.cs) 對應WPF任務(Task) 4個Sink抓取每天總數量 ==&gt; <a href="./intro3_1.html">任務</a></p>
 <p>*. 對應五大功能選單區，使用mongoDB API 對應任務：</p>
 <pre><code>[ ].首頁
 
